@@ -6,7 +6,7 @@ A comprehensive, production-ready discrete hardware implementation of a 2-bit bi
 * **Logic Family:** Discrete Resistor-Transistor Logic (RTL)
 * **Active Components:** 6x BC547 NPN Bipolar Junction Transistors (BJTs), 2x 1N4148 Fast-Switching Diodes
 * **Architecture Blocks:** * **CARRY (AND Gate):** Series-stacked NPN transistor cascade with 330Ω pull-down loading.
-  * **SUM (XOR Gate):** Cross-coupled parallel NPN branch network paired with a Wired-OR diode mixing node to eliminate signal feedback degradation.
+* **SUM (XOR Gate):** Cross-coupled parallel NPN branch network paired with a Wired-OR diode mixing node to eliminate signal feedback degradation.
 * **PCB Architecture:** Dual-Layer High-Density Placement Routing (`F.Cu` and `B.Cu` layers)
 * **Form Factor & Design Parameters:** Optimized single-board design with strict orthogonal routing to prevent capacitive cross-talk.
 
