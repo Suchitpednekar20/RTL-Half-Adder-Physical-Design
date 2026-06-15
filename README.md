@@ -22,14 +22,13 @@ The circuit logic was extensively stress-tested in LTspice using sharp transient
 <img width="1092" height="755" alt="Schematic" src="https://github.com/user-attachments/assets/0d83bebb-ba59-4811-8f49-b25a02f4b488" />
 
 ### 2. PCB 3D Hardware Render
-<img width="1918" height="1018" alt="3D view back side" src="https://github.com/user-attachments/assets/c6a0ceb0-993f-47dc-b26b-d5122dd2c04e" />
-<img width="1092" height="755" alt="Schematic" src="https://github.com/user-attachments/assets/8be41ac7-da4e-486e-89c3-da6ca9fef03c" />
-<img width="1916" height="1017" alt="3D view front side" src="https://github.com/user-attachments/assets/973423d6-5866-47f9-ba8d-be920cb79d5d" />
+<img width="1916" height="1017" alt="3D view front side" src="https://github.com/user-attachments/assets/8c4d5d8c-80dd-48ab-8608-1973471b7697" />
+<img width="1918" height="1018" alt="3D view back side" src="https://github.com/user-attachments/assets/33ee152e-fdaa-40aa-8aec-9db22fd96224" />
 
 ### 3. PCB Routing
 <img width="805" height="787" alt="PCB Editor 2" src="https://github.com/user-attachments/assets/3e335f79-3e9b-44b8-bac1-7855b0133653" />
 
-### 3. LTspice Transient Waveform Graph
+### 4. LTspice Transient Waveform Graph
 <img width="1916" height="1022" alt="Waveforms" src="https://github.com/user-attachments/assets/9b9d18bf-987b-4ba7-ae23-ed2d2911d27a" />
 
 ## 📁 Repository Structure
